@@ -1,6 +1,6 @@
-# 🌐 Welcome to [Masterschool Software Engineering]!
+# 🌐 Welcome to Masterschool Software Engineering!
 
-**[Organization Name]** is a collaborative space for [purpose or mission, e.g., developing open-source web tools, data science projects, etc.]. Our projects are focused on [describe focus areas, e.g., innovative web solutions, advanced data analysis, machine learning models, etc.].
+**[Software Engineering]([https://github.com/organization/project-1](https://static.serve.masterschool.com/Marketing/Software+Engineering+Syllabus+-++14+Month+Program.pdf))**: These are the projects and collaborations I completed during my Software Engineering bootcamp with Masterschool..
 
 ---
 
