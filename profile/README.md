@@ -1,4 +1,4 @@
-# 🌐 Welcome to [Organization Name]!
+# 🌐 Welcome to [Masterschool Software Engineering]!
 
 **[Organization Name]** is a collaborative space for [purpose or mission, e.g., developing open-source web tools, data science projects, etc.]. Our projects are focused on [describe focus areas, e.g., innovative web solutions, advanced data analysis, machine learning models, etc.].
 
