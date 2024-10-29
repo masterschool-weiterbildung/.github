@@ -1,4 +1,4 @@
-# 🌐 Welcome to Masterschool Software Engineering!
+# 🌐 Welcome to my Masterschool Software Engineering projects and collaborations!
 
 **[Software Engineering](https://static.serve.masterschool.com/Marketing/Software+Engineering+Syllabus+-++14+Month+Program.pdf)**: These are the projects and collaborations I completed during my Software Engineering bootcamp with Masterschool.
 
