@@ -8,10 +8,9 @@
 
 Here is a categorized list of our projects:
 
-### 🚀 Web Development
+### 🚀 Generative AI
 - **[Project Name 1](https://github.com/organization/project-1)**: A React-based web application for [describe purpose].
-- **[Project Name 2](https://github.com/organization/project-2)**: A Node.js API service for [describe purpose].
-- **[Project Name 3](https://github.com/organization/project-3)**: A Vue.js project for creating responsive and interactive dashboards.
+
 
 ### 📊 Data Science
 - **[Project Name 4](https://github.com/organization/project-4)**: A Python data analysis toolkit using Pandas and Matplotlib.
