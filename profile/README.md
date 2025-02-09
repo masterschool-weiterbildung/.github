@@ -9,7 +9,7 @@
 Here is a categorized list of our projects:
 
 ### 🚀 Generative AI
-- **[Project Name 1](https://github.com/organization/project-1)**: A React-based web application for [describe purpose].
+- **[AI Backend] ([https://github.com/organization/project-1](https://github.com/masterschool-weiterbildung/ai_project))**: A React-based web application for [describe purpose].
 
 
 ### 📊 Data Science
