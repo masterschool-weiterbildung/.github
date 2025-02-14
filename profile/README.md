@@ -15,7 +15,7 @@ Here is a categorized list of our projects:
 
 ### 📊 Python Core Learning 
 - **[Python Calculator] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-calculator)**: This Python program provides a simple command-line calculator that can perform basic mathematical operations.
-- **[Project Name 5](https://github.com/organization/project-5)**: Machine learning model for predictive analytics in [specific field].
+- **[Prime Number Checker] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-prime-number/tree/main)**: This Python script determines whether a given number is prime and finds prime numbers within a specified range.
 
 ---
 
