@@ -20,5 +20,6 @@ Here is a categorized list of our projects:
 - **[Word Frequency Analyzer for Romeo and Juliet] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-romeo-and-juliet)**: This script analyzes the word frequency in Shakespeare's Romeo and Juliet and identifies the top 50 most frequently occurring words.
 - **[Prime Number and Goldbach's Conjecture Checker] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-goldbach)**: This Python program determines whether a number is prime, checks for evenness, and verifies Goldbach's conjecture by finding two prime numbers that sum up to an even integer.
 - **[Student Grade Calculator] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-help_your_teacher_two)**: This project provides a Python script for managing student grades. It allows users to input student names, enter grades for English and Math, calculate averages, determine the highest grade, and identify failing students.
+- **[Ships CLI Application] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-titanic)**: This is a Command-Line Interface (CLI) application for interacting with ship data. The application supports various commands, such as displaying countries, showing ships by type, generating histograms of ship speeds, and displaying ship locations on a map.
 ---
 
