@@ -27,6 +27,10 @@ Here is a categorized list of our projects:
 - **[BestBuy Store Application] [Link](https://github.com/masterschool-weiterbildung/bestbuy)**: A Python-based application to manage products, promotions, and orders for a fictional store. Users can view product listings, check the total quantity of items in the store, place orders, and more. This project demonstrates the concept of OOP (Object-Oriented Programming
 - **[Blog Management Application] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-masterblog)**: A simple Flask-based blog management application.
 - **[Masterblog API] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-masterblog-api)**: A RESTful blogging platform built with Flask, providing features for managing blog posts, including creating, reading, updating, deleting, sorting, and searching. The API also includes rate limiting, validation, and interactive Swagger documentation.
+- **[Flight Data Query CLI] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-sky-sql)**: A Command-Line Interface (CLI) application for querying and displaying flight data from an SQLite database. The program allows users to search flights by ID, date, airline, or origin airport while highlighting delayed flights.
+- **[Book Management System] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-book-alchemy)**: A Flask-based web application for managing a collection of books and authors
+- **[Flask Movie Web App] [Link](https://github.com/masterschool-weiterbildung/moviweb_app)**: A Flask-based web application for managing users and their favorite movies. This project integrates with the OMDB API to fetch movie details and stores user data in a SQLite database.
+
 
 ### 📊 Hackathon
 #### Event where teams collaborate intensively over a short period to create a working project or prototype
