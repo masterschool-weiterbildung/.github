@@ -24,6 +24,7 @@ Here is a categorized list of our projects:
 
 ### 📊 Hackathon
 #### Event where teams collaborate intensively over a short period to create a working project or prototype
+- **[Guess the Title (Trivia Challenge Game)] [Link](https://github.com/masterschool-weiterbildung/guess-the-title)**: an engaging quiz game where players test their knowledge by answering trivia questions. With a clean user interface and fun gameplay mechanics, it offers a competitive experience with a leaderboard to track the top scores.
 - **[Hackathon Alien Project] [Link](https://github.com/masterschool-weiterbildung/hackathon-alien)**: This project is an engaging and interactive SMS-based application designed to entertain and inform users with a range of features such as space diplomacy tips, UFO data, alien language translation, and real-time information about the International Space Station (ISS).
 ---
 
