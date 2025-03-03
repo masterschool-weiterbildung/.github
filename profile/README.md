@@ -10,7 +10,7 @@ Here is a categorized list of our projects:
 
 ### 🚀 Role Based Learning
 #### Generative AI
-- **[AI Backend] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: A Fastapi Backend application [describe purpose].
+- **[Nursing Assistant Application ] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: An AI-powered tool to assist nurses by automating administrative tasks, supporting clinical decisions, and enhancing patient care.
 
 
 ### 📊 Python Core Learning 
