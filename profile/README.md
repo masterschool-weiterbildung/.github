@@ -8,10 +8,14 @@
 
 Here is a categorized list of our projects:
 
+https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app
+
 ### 🚀 Role Based Learning
-#### Generative AI
+#### [AI Track] Generative AI
 - **[Nursing Assistant Application ] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: An AI-powered tool to assist nurses by automating administrative tasks, supporting clinical decisions, and enhancing patient care.
 
+#### [Cloud Track] AWS - Terraform
+- **[Grocery App AWS Infrastructure] [Link](https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app)**: This Terraform project creates an AWS infrastructure for a grocery app, with a VPC, public and private subnets, an EC2 instance, and a PostgreSQL RDS database. The EC2 instance in the public subnet has a public IP and SSH access, while the RDS in private subnets is secured for EC2 access only. It follows AWS best practices for security and high availability.
 
 ### 📊 Python Core Learning 
 - **[Python Calculator] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-calculator)**: This Python program provides a simple command-line calculator that can perform basic mathematical operations.
