@@ -14,7 +14,7 @@ https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app
 #### [AI Track] Generative AI
 - **[Nursing Assistant Application ] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: An AI-powered tool to assist nurses by automating administrative tasks, supporting clinical decisions, and enhancing patient care.
 
-#### [Cloud Track] AWS - Terraform
+#### [Cloud Track] AWS - Terraform and AWS CDK (Java)
 - **[Grocery App AWS Infrastructure] [Link](https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app)**: This project provisions an AWS infrastructure for a grocery app using both Terraform and AWS CDK (Java). It sets up a VPC, public and private subnets, an EC2 instance, and a PostgreSQL RDS database. Both implementations follow AWS best practices for security, scalability, and high availability.
 
 ### 📊 Python Core Learning 
