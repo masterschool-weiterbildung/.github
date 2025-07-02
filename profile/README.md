@@ -15,7 +15,7 @@ https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app
 - **[Nursing Assistant Application ] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: An AI-powered tool to assist nurses by automating administrative tasks, supporting clinical decisions, and enhancing patient care.
 
 #### [Cloud Track] AWS - Terraform
-- **[Grocery App AWS Infrastructure] [Link](https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app)**: This Terraform project creates an AWS infrastructure for a grocery app, with a VPC, public and private subnets, an EC2 instance, and a PostgreSQL RDS database. The EC2 instance in the public subnet has a public IP and SSH access, while the RDS in private subnets is secured for EC2 access only. It follows AWS best practices for security and high availability.
+- **[Grocery App AWS Infrastructure] [Link](https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app)**: This project provisions an AWS infrastructure for a grocery app using both Terraform and AWS CDK (Java). It sets up a VPC, public and private subnets, an EC2 instance, and a PostgreSQL RDS database. Both implementations follow AWS best practices for security, scalability, and high availability.
 
 ### 📊 Python Core Learning 
 - **[Python Calculator] [Link](https://github.com/masterschool-weiterbildung/weiterbildung-calculator)**: This Python program provides a simple command-line calculator that can perform basic mathematical operations.
