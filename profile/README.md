@@ -8,8 +8,6 @@
 
 Here is a categorized list of our projects:
 
-https://github.com/masterschool-weiterbildung/cloud-terraform-aws-grocery-app
-
 ### 🚀 Role Based Learning
 #### [AI Track] Generative AI
 - **[Nursing Assistant Application ] [Link](https://github.com/masterschool-weiterbildung/ai_project)**: An AI-powered tool to assist nurses by automating administrative tasks, supporting clinical decisions, and enhancing patient care.
